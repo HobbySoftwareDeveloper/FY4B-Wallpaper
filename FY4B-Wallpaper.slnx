@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FY4B-Wallpaper/FY4B-Wallpaper.vcxproj" Id="6e2737d4-2fd7-4f20-97b4-39258b5156f8" />
+</Solution>
